@@ -9,7 +9,7 @@
 - prime.css – My first CSS file
 > Used for layout and basic styling (fonts, colors, spacing)
 
-> > Linked to all HTML pages
+> Linked to all HTML pages
 
 # Each page includes:
 - Property images and navigation buttons
